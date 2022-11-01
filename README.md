@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit862&label=Profile%20views&color=0e75b6&style=flat" alt="amit862" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot, Python**
+- 🌱 I’m currently learning **Java, Spring Boot, Python, Web Development(HTML, CSS, JavaScript, Bootstrap)**
 
 - 💬 Ask me about **Java, Python, DSA in java**
 
@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/amit-verma-6127801b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-verma-6127801b4" height="30" width="40" /></a>
 <a href="https://instagram.com/amit._vrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit._vrma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@amit862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@amit862" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amit862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Amit862" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
