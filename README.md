@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit862&label=Profile%20views&color=0e75b6&style=flat" alt="amit862" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot, Python, Web Development(HTML, CSS, JavaScript, Bootstrap)**
+- 🌱 I’m currently learning **Java, Spring Boot, Python**
 
 - 💬 Ask me about **Java, Python, DSA in java**
 
