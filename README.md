@@ -1,4 +1,3 @@
-![LOGO](https://github.com/amit862/amit862/blob/main/AMIT%20VERMA%20Developer.png)
 
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
 <h3 align="center">A passionate backend developer from India</h3>
