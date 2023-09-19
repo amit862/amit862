@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit862&label=Profile%20views&color=0e75b6&style=flat" alt="amit862" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, AI, ML, Java**
+- 🌱 I’m currently learning **Data Science, Python, Django, Flask, Java**
 
 - 💬 Ask me about **Python, AI, ML, Problem Solving**
 
