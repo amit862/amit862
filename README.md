@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit862&label=Profile%20views&color=0e75b6&style=flat" alt="amit862" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Python, Java**
+- 🌱 I’m currently learning **Java, SQL, DSA, DevOps**
 
-- 💬 Ask me about **Python, AI, ML, Problem Solving**
+- 💬 Ask me about **Java, SQL, DSA, Spring Boot**
 
 - 📫 How to reach me **amitverma09525@gmail.com**
 
